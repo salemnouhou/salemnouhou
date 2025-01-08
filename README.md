@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **PHP, LARAVEL**
+- 💬 Ask me about **PHP, LARAVEL, NODE JS**
 
 - 📫 How to reach me **salem.nouhou@epitech.eu**
 
