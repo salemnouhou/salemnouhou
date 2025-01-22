@@ -14,15 +14,15 @@
 
 <p align="left"> <a href="https://twitter.com/dotnetplus1" target="blank"><img src="https://img.shields.io/twitter/follow/dotnetplus1?logo=twitter&style=for-the-badge" alt="dotnetplus1" /></a> </p>
 
-- 🔭 I’m currently working on **Vue Js & Laravek**
+- 🔭 I’m currently working on **React & Nest JS**
 
 - 🌱 I’m currently learning **Frontend frameworks**
 
-- 👯 I’m looking to collaborate on **Laravel Project**
+- 👯 I’m looking to collaborate on **Javascript/Typescript Project**
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **PHP, LARAVEL, NODE JS**
+- 💬 Ask me about **PHP, LARAVEL, Vue, NODE JS**
 
 - 📫 How to reach me **salem.nouhou@epitech.eu**
 
